@@ -4,13 +4,12 @@ This is the repository for the live demo on git for SLO-Hacks Lite
 ## How to use Git
 
 ### Clone the repository
-``` git clone https://github.com/hack4impact-calpoly/hospice-of-slo.git ```
+1. ``` git clone https://github.com/ctperry0301/git-demo.git ```
+2. To test that it is working correctly, navigate to this code and try running it. 
 
-### Running the app
-1. ```npm start ``` (if its your first time, you might need to run ```npm i```)
 
 ### Making Changes
-1. Before you start making changes, ```git pull``` and then ```npm i```
+1. Before you start making changes, ```git pull``` (this will ensure that you have the most up to date version of the code)
 2. Create a branch ```git checkout -b <name-of-branch>```
 3. Make changes to the code 
 
@@ -23,4 +22,5 @@ This is the repository for the live demo on git for SLO-Hacks Lite
 1. Find the repository on Github
 1. Go to the Pull Requests tab
 2. Find your Pull Request,
-3. If it looks good to you and your team, Go ahead and Click merge Code
+3. If the commited code looks good to you and your team, go ahead and Click on Merge.
+4. At this point, your code will be added to the repository, and your team will be able to run your code by pulling changes.
