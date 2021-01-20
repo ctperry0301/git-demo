@@ -1,7 +1,5 @@
-# git-demo
-This is the repository for the live demo on git for SLO-Hacks Lite
-
-## How to use Git
+## How to use Git 
+- This is the repository for the live demo on git for SLO-Hacks Lite
 
 ### Clone the repository
 1. ``` git clone https://github.com/ctperry0301/git-demo.git ```
